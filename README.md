@@ -1,1 +1,1 @@
-My first readme
+I'm now motivated to do hard things
